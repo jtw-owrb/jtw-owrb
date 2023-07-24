@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @jtw-owrb
 - 👀 I’m interested in data management and manipulation, water science, 
-- 🌱 I’m currently learning R, QGIS, HTML
+- 🌱 I’m currently learning R, QGIS, HTML, Python
 - 💞️ I’m looking to collaborate on nothing at the moment
 - 📫 How to reach me justin.wright@owrb.ok.gov
 
